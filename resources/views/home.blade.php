@@ -402,7 +402,7 @@
     <div class="container">
         <div class="row align-items-center about-section p-5">
             <div class="col-lg-6 mb-4 mb-lg-0">
-                <img src="https://images.unsplash.com/photo-1517433670267-30f41c0f94b5?w=600" 
+                <img src="images/logo eriand.jpeg" 
                      class="img-fluid rounded-3 shadow" alt="Tentang Kami">
             </div>
             <div class="col-lg-6 ps-lg-5">
